@@ -1,0 +1,83 @@
+[
+  {
+    "context": {
+      "customer_id": "818",
+      "churn_probability": "57%",
+      "risk_level": "MEDIUM",
+      "expected_margin_loss_next_12_months": "$1,694",
+      "years_as_customer": 1.0,
+      "spend_per_year": "$9,979",
+      "num_of_purchases": 46,
+      "days_since_last_purchase": 146,
+      "satisfaction_score": 4.0,
+      "risk_factors": [
+        "Spends 8441.6% of their income with us",
+        "Average basket of $248.89"
+      ],
+      "protective_factors": [],
+      "approved_actions": [
+        "Personal check-in call from the customer-success team"
+      ]
+    },
+    "brief": {
+      "summary": "818 is MEDIUM risk with a churn probability of 57%, putting about $1,694 of margin at stake over the next year. The main drivers are spends 8441.6% of their income with us and average basket of $248.89. Lead with: personal check-in call from the customer-success team.",
+      "customer_message": "Hi, thank you for being with us for the past year. We'd love to hear how things are going and what we could do better. Just reply to this message or give us a call and we'll sort it out. - The Customer Care Team",
+      "source": "template"
+    }
+  },
+  {
+    "context": {
+      "customer_id": "120",
+      "churn_probability": "57%",
+      "risk_level": "MEDIUM",
+      "expected_margin_loss_next_12_months": "$1,633",
+      "years_as_customer": 1.0,
+      "spend_per_year": "$9,620",
+      "num_of_purchases": 18,
+      "days_since_last_purchase": 203,
+      "satisfaction_score": 2.0,
+      "risk_factors": [
+        "Spends 5222.6% of their income with us",
+        "Average basket of $52.17"
+      ],
+      "protective_factors": [],
+      "approved_actions": [
+        "Personal check-in call from the customer-success team"
+      ]
+    },
+    "brief": {
+      "summary": "120 is MEDIUM risk with a churn probability of 57%, putting about $1,633 of margin at stake over the next year. The main drivers are spends 5222.6% of their income with us and average basket of $52.17. Lead with: personal check-in call from the customer-success team.",
+      "customer_message": "Hi, thank you for being with us for the past year. We'd love to hear how things are going and what we could do better. Just reply to this message or give us a call and we'll sort it out. - The Customer Care Team",
+      "source": "template"
+    }
+  },
+  {
+    "context": {
+      "customer_id": "963",
+      "churn_probability": "55%",
+      "risk_level": "MEDIUM",
+      "expected_margin_loss_next_12_months": "$1,541",
+      "years_as_customer": 1.0,
+      "spend_per_year": "$9,343",
+      "num_of_purchases": 24,
+      "days_since_last_purchase": 72,
+      "satisfaction_score": 3.0,
+      "risk_factors": [
+        "Annual income of $90",
+        "24.0 purchases per year",
+        "1 support contact"
+      ],
+      "protective_factors": [
+        "Only 24 purchases to date"
+      ],
+      "approved_actions": [
+        "Loyalty-points bonus on the next purchase to lift frequency"
+      ]
+    },
+    "brief": {
+      "summary": "963 is MEDIUM risk with a churn probability of 55%, putting about $1,541 of margin at stake over the next year. The main drivers are annual income of $90, 24.0 purchases per year and 1 support contact. Lead with: loyalty-points bonus on the next purchase to lift frequency.",
+      "customer_message": "Hi, thank you for being with us for the past year. We'd like to thank you with bonus loyalty points on your next purchase. Just reply to this message or give us a call and we'll sort it out. - The Customer Care Team",
+      "source": "template"
+    }
+  }
+]

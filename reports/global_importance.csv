@@ -1,0 +1,20 @@
+feature,mean_abs_shap,label
+support_contact_rate,0.03424560196383641,Support Contact Rate
+average_transaction_amount,0.029076112566541766,Average Transaction Amount
+annual_income,0.0217791053370326,Annual Income
+return_rate,0.02135780412673747,Return Rate
+spend_to_income_ratio,0.020931023640963227,Spend To Income
+spend_per_year,0.019610526582483728,Spend Per Year
+num_of_purchases,0.01895455605143339,Num of Purchases
+rescency_ratio,0.01594210557053945,Rescency Ratio
+total_spend,0.013720479227551383,Total Spend
+purchases_per_year,0.012441720432849924,Purchases Per Year
+last_purchase_days_ago,0.006356026777383417,Last_Purchase Days Ago
+years_as_customer,0.006124432860591641,Years as Customer
+age,0.005482412091896721,Age
+satisfaction_score,0.004767747624741311,Satisfaction Score
+gender,0.0036175293597034753,Gender
+promotion_response,0.0034338478376168173,Promotion Response
+num_of_support_contacts,0.0023642977951056103,Num of Support Contacts
+num_of_returns,0.0,Num of Returns
+email_opt_in,0.0,Email Opt In
